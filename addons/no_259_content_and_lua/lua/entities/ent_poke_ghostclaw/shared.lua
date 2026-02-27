@@ -1,0 +1,10 @@
+--[[
+lua/entities/ent_poke_ghostclaw/shared.lua
+--]]
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.PrintName = "Ghost Claw"
+ENT.Author	= "Demonkush"
+ENT.Spawnable = false
+ENT.AdminSpawnable = false
+

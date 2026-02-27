@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/props_combine/stasisfield_beam"
+	"$nodecal" "1"
+	"$translucent" "1"
+	"$additive" "1"
+	"$model" "1"
+}

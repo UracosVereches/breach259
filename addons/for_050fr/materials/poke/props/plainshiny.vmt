@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Models/Debug/debugwhite"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+	"$model" 1
+}

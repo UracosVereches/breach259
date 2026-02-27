@@ -1,0 +1,3 @@
+--sosi
+--resource.AddFile("sound/redarmyisthestrongest.ogg")
+--resource.AddFile("sound/erica.ogg")

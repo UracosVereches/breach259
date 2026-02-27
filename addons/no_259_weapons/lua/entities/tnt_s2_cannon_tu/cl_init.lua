@@ -1,0 +1,8 @@
+--[[
+lua/entities/tnt_s2_cannon_tu/cl_init.lua
+--]]
+
+include("shared.lua")
+
+killicon.Add( "tnt_s2_cannon_tu", "vgui/hud/tnt_cannon", Color( 255, 255, 255, 255 ) )
+

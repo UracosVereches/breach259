@@ -1,0 +1,3 @@
+--hook.Add("PlayerFootstep", "InvisiblesDisableSounds", function(ply, pos, foot, sound, volume, rf)
+	--return true
+--end)
